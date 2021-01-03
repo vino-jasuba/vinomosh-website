@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-fade {
+    background: linear-gradient(180deg, rgba(21, 21, 21, 0), #151515);
+  }
+
+  .transition {
+    transition-property: background-color, border-color, color, fill, stroke,
+      opacity, box-shadow, transform;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .fade-group {
+      pointer-events: none;
+  }
+
+  .fade-group > * {
+      pointer-events: auto;
+  }
+
+  .fade-group:hover > * {
+    opacity: 0.5;
+  }
+
+  .fade-group:hover > *:hover {
+    opacity: 1;
+  }
