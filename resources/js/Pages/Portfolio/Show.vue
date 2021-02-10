@@ -6,14 +6,13 @@
         <h1 class="text-3xl md:px-8 lg:text-6xl">Vincent Omondi.</h1>
       </div>
       <div class="p-8 text-dawn text-sm leading-relaxed tracking-wider lg:p-12 lg:mt-8 max-w-lg">
-        I’m a Software Engineer currently working with PHP as Backend Developer for the Squad at&nbsp;
-        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://ibuild.global">iBUILD</inertia-link>. Imostly do API development, and I’m a&nbsp;
-        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://laravel.com">Laravel</inertia-link>&nbsp;evangelist. I take every opportunity I get to remind everyone that PHP is not&nbsp;
-        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://kinsta.com/blog/is-php-dead/">dead</inertia-link>. I also dabble in front-end development and I absolutely love pairing
-        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://tailwindcss.com/">Tailwind CSS </inertia-link>&nbsp;with
-        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://reactjs.org">React.Js</inertia-link>.&nbsp;Drop me an&nbsp;
-        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="mailto:info@vinomosh.me">email</inertia-link>&nbsp;if you think we're a good fit or if you just want to listen to me talk about&nbsp;
-        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://www.google.com/search?q=one+piece">One Piece</inertia-link>
+        Hellooo 👋🤠, I’m a Software Developer currently working for the Squad at&nbsp;
+        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://ibuild.global">iBUILD</inertia-link>. As a&nbsp;
+        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://laravel.com">Laravel</inertia-link>&nbsp;evangelist, I take every opportunity I get to remind everyone that PHP is not&nbsp;
+        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://kinsta.com/blog/is-php-dead/">dead</inertia-link>! Now I know what you're thinking, and the answer is yes. I can do more than backend development. A student of design, I have learnt the modern art of
+        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://tailwindcss.com/">Tailwind CSS.</inertia-link> I'm also a journeyman in the art of the SPA with my weapons of choice being
+        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://reactjs.org">React.Js</inertia-link> and <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="https://reactjs.org">Vue.Js</inertia-link>.&nbsp;Light up a&nbsp;
+        <inertia-link class="text-white underline" target="_blank" rel="noopener noreferrer" href="mailto:info@vinomosh.me">smoke signal</inertia-link>&nbsp;if you think we can enjoy a working relationship or if you just want to chat about&nbsp; anime (cough* 👀, I mean military tactics 🤓).
       </div>
       <div class="p-8">
         <div class="flex">
@@ -55,26 +54,26 @@ export default {
           category: "php",
           name: "Laravel",
           summary:
-            "The framework for web artisans and my goto tool when building amazing web solutions without sweating the small things",
+            "Also known as the citadel of kings and queens ;) artisan inspire",
           stars: ""
         },
         {
           category: "javascript",
           name: "React.Js",
-          summary: "How can anybody not like React?",
+          summary: "We can get on a call if you need some context",
           stars: ""
         },
         {
           category: "containerd",
           name: "Docker",
-          summary: "Containerizing applications since 2018",
+          summary: "Because I'm committed to getting it to work on your machine too",
           stars: ""
         },
         {
           category: "cloud",
           name: "AWS",
           summary:
-            "Experienced in leveraging the rich ecosystem of AWS services for reliable application deployments",
+            "It's magic! Okay, maybe not exactly but it's powering this site ... magical!",
           stars: ""
         }
       ],

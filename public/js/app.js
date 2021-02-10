@@ -3585,7 +3585,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 
 
 
@@ -3599,22 +3598,22 @@ __webpack_require__.r(__webpack_exports__);
       technologies: [{
         category: "php",
         name: "Laravel",
-        summary: "The framework for web artisans and my goto tool when building amazing web solutions without sweating the small things",
+        summary: "Also known as the citadel of kings and queens ;) artisan inspire",
         stars: ""
       }, {
         category: "javascript",
         name: "React.Js",
-        summary: "How can anybody not like React?",
+        summary: "We can get on a call if you need some context",
         stars: ""
       }, {
         category: "containerd",
         name: "Docker",
-        summary: "Containerizing applications since 2018",
+        summary: "Because I'm committed to getting it to work on your machine too",
         stars: ""
       }, {
         category: "cloud",
         name: "AWS",
-        summary: "Experienced in leveraging the rich ecosystem of AWS services for reliable application deployments",
+        summary: "It's magic! Okay, maybe not exactly but it's powering this site ... magical!",
         stars: ""
       }],
       VincentFaceShot: _assets_images_vincent2_jpeg__WEBPACK_IMPORTED_MODULE_2___default.a
@@ -47932,7 +47931,7 @@ var render = function() {
           },
           [
             _vm._v(
-              "\n      I’m a Software Engineer currently working with PHP as Backend Developer for the Squad at \n      "
+              "\n      Hellooo 👋🤠, I’m a Software Developer currently working for the Squad at \n      "
             ),
             _c(
               "inertia-link",
@@ -47946,7 +47945,7 @@ var render = function() {
               },
               [_vm._v("iBUILD")]
             ),
-            _vm._v(". Imostly do API development, and I’m a \n      "),
+            _vm._v(". As a \n      "),
             _c(
               "inertia-link",
               {
@@ -47960,7 +47959,7 @@ var render = function() {
               [_vm._v("Laravel")]
             ),
             _vm._v(
-              " evangelist. I take every opportunity I get to remind everyone that PHP is not \n      "
+              " evangelist, I take every opportunity I get to remind everyone that PHP is not \n      "
             ),
             _c(
               "inertia-link",
@@ -47975,7 +47974,7 @@ var render = function() {
               [_vm._v("dead")]
             ),
             _vm._v(
-              ". I also dabble in front-end development and I absolutely love pairing\n      "
+              "! Now I know what you're thinking, and the answer is yes. I can do more than backend development. A student of design, I have learnt the modern art of\n      "
             ),
             _c(
               "inertia-link",
@@ -47987,9 +47986,11 @@ var render = function() {
                   href: "https://tailwindcss.com/"
                 }
               },
-              [_vm._v("Tailwind CSS ")]
+              [_vm._v("Tailwind CSS.")]
             ),
-            _vm._v(" with\n      "),
+            _vm._v(
+              " I'm also a journeyman in the art of the SPA with my weapons of choice being\n      "
+            ),
             _c(
               "inertia-link",
               {
@@ -48002,7 +48003,20 @@ var render = function() {
               },
               [_vm._v("React.Js")]
             ),
-            _vm._v(". Drop me an \n      "),
+            _vm._v(" and "),
+            _c(
+              "inertia-link",
+              {
+                staticClass: "text-white underline",
+                attrs: {
+                  target: "_blank",
+                  rel: "noopener noreferrer",
+                  href: "https://reactjs.org"
+                }
+              },
+              [_vm._v("Vue.Js")]
+            ),
+            _vm._v(". Light up a \n      "),
             _c(
               "inertia-link",
               {
@@ -48013,22 +48027,10 @@ var render = function() {
                   href: "mailto:info@vinomosh.me"
                 }
               },
-              [_vm._v("email")]
+              [_vm._v("smoke signal")]
             ),
             _vm._v(
-              " if you think we're a good fit or if you just want to listen to me talk about \n      "
-            ),
-            _c(
-              "inertia-link",
-              {
-                staticClass: "text-white underline",
-                attrs: {
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                  href: "https://www.google.com/search?q=one+piece"
-                }
-              },
-              [_vm._v("One Piece")]
+              " if you think we can enjoy a working relationship or if you just want to chat about  anime (cough* 👀, I mean military tactics 🤓).\n    "
             )
           ],
           1
@@ -64132,8 +64134,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/vino/Repo/development/php/vinomosh.me/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/vino/Repo/development/php/vinomosh.me/resources/css/app.css */"./resources/css/app.css");
+__webpack_require__(/*! /home/vino/Repo/development/Personal Projects/vinomosh.me/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/vino/Repo/development/Personal Projects/vinomosh.me/resources/css/app.css */"./resources/css/app.css");
 
 
 /***/ })

@@ -1,0 +1,9 @@
+.env
+.DS_*
+.git/
+.idea/
+.vscode/
+*.cache
+.git*
+vendor/
+node_modules/
